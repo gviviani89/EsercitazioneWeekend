@@ -1,0 +1,40 @@
+INSERT INTO Telefono (brand, name,displaySize,opSys) VALUES
+						('HTC','HTC One M8','4.7','Android'),
+						('APPLE','Iphone 5S','4','iOS'),
+						('SAMSUNG','Galaxy Note 3','5.7','Android'),
+						('SAMSUNG','Galaxy S4 mini','4.3','Android'),
+						('MOTOROLA','Moto X','4.7','Android'),
+						('NOKIA','Lumia 1020','5.7','Windows Phone 8'),
+						('LG','Nexus 5','4.95','Android'),
+						('LG','G2','5.2','Android'),
+						('NOKIA','Lumia 930','5.0','Windows Phone 8'),
+						('BLACKBERRY','Blackberry Z30','5','BlackBerry'),
+						('NOKIA','Lumia 520','4','Windows Phone 8'),
+						('SAMSUNG','Ativ S Neo','4.77','Android'),
+						('APPLE','Iphone 6','4.7','iOS'),
+						('APPLE','Iphone 7','4.7','iOS'),
+						('APPLE','Iphone 6S','4.7','iOS'),
+						('APPLE','Iphone 4','3.5','iOS'),
+                        ('SAMSUNG','Galaxy S6 Edge','5.1','Android'),
+                        ('SAMSUNG','Galaxy S7 Edge','6.0','Android');
+                        
+                        
+                        
+INSERT INTO Contatti (nome,cognome,data_nascita,numero,modello) VALUES
+						('Giuseppe','Viviani','1989-11-11','3496657825',1),
+						('Alessandro','Cardinale','1990-12-12','3392574112',2),
+                        ('Carmine','Di Gruttola','1992-5-6','3289954120',3),
+                        ('Francesco','Orioli','1970-8-10','3405981224',9),
+                        ('Angela','Peluso','1999-9-9','3387741252',10),
+                        ('Mariangela','Schiavone','1995-2-28','3279654128',11),
+                        ('Pasquale','Grasso','1975-8-9','3498855620',15),
+                        ('Alessio','Priore','1980-11-10','3420065821',17),
+                        ('Ignazio','Mennito','1983-3-30','3396968525',18),
+                        ('Guido','LaBarca','1986-7-5','3357412258',13),
+                        ('Marino','Sale','1990-10-5','3200154883',12),
+                        ('Pietro','Sasso','1995-2-1','3332590112',8),
+                        ('Gigio','Topo','1974-7-18','3245581202',3),
+                        ('Gina','Cande','1990-10-3','3498562355',7),
+                        ('Sara','Cinesca','1999-8-9','3339988222',6),
+                        ('Paolo','Brosio','1977-7-7','3200680000',5),
+                        ('Gustavo','Lapasta','1998-4-3','3298454112',4);
